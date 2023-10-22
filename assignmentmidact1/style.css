@@ -1,0 +1,47 @@
+body {    
+    background-color:black;
+
+   /*kini way labut unta kay serok man ko butangan lang nako HAUHAUHAU*/
+    background-image: url('hairy.gif');
+    background-size: cover;
+     /*HAUAHUAUHAU*/
+
+    border: 10px; border-color:  red;
+    padding: 8px;
+    margin: 10px;
+}
+h1 {
+color: yellow;
+text-align: center;
+text-decoration: underline;
+
+}
+h1:hover {
+    background-color: red;
+}
+h2{
+    color: white;
+    text-align: center;
+    font-size: 14px;
+    text-transform: Sentence cases;
+}
+h3 {
+    color: white;
+    font-family: Arial;
+    font-size: 16px;
+    font-style: italic;
+    text-transform:lowercase;
+}
+
+.my-favorite-hobbies {
+    color: white;
+    display: flex;
+    flex-wrap: wrap;
+  
+    list-style-type: circle;
+
+}
+footer {
+    color: white;
+    text-align: center;
+}
